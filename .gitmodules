@@ -1,0 +1,3 @@
+[submodule "3-tier-app-geo-fav"]
+	path = 3-tier-app-geo-fav
+	url = https://github.com/aika-l/Geo-Favs.git
